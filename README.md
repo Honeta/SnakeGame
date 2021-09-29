@@ -1,2 +1,2 @@
 # SnakeGame
-A simply game - snake with a simple auto-mode.
+A simple game - Snake with a simple auto-mode.
