@@ -102,7 +102,7 @@ void Print()
         printf("\n");
     }
     printf(" Length:%d\n",Length);
-    printf(" Auto Mode By HUST_hxj\n");
+    printf(" Auto Mode By Honeta\n");
     return;
 }
 

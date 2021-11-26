@@ -105,7 +105,7 @@ void Print()
         printf("\n");
     }
     printf(" Length:%d\n",Length);
-    printf(" Game Mode By HUST_hxj\n");
+    printf(" Game Mode By Honeta\n");
     return;
 }
 
